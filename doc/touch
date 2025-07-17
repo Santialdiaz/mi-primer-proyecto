@@ -6,4 +6,5 @@ Los pasos para la creación de un repositorio nuevo y enlazarlo con el local fue
 **4:** se inserta el comando git push -u origin main por primera vez
 **5:** Se debe ingresar git push" para sincronizar
 Tener presente que se puede editar también en Visual Studio Code
+![EVIDENCIA](Captura-Clase2-Programación.jpg)
 
