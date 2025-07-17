@@ -1,0 +1,9 @@
+
+Los pasos para la creación de un repositorio nuevo y enlazarlo con el local fue:
+**1:** Crear la cuenta en GitHub y copiar el enlace origin
+**2:** En GitBash agregar el código "Remote add origin con la URL copiada previamente"
+**3:** Posteriormente ingresar el código "git remote -v; debe salir 2 veces el comando anterior y para que todo resulte correcto debe salir al final del primero (fetch) y del segundo (push)
+**4:** se inserta el comando git push -u origin main por primera vez
+**5:** Se debe ingresar git push" para sincronizar
+Tener presente que se puede editar también en Visual Studio Code
+
